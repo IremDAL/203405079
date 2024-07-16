@@ -1,7 +1,6 @@
 # 203405079
 Dogal Dil Isleme odevi
-Aysel İrem Nur DAL 203405079 
-Hocam ödevimde ilk olarak y case'inde olan 0,1,2 ve 3 lerin sayısını topladım.
+Ödevimde ilk olarak y case'inde olan 0,1,2 ve 3 lerin sayısını topladım.
 İlk gelen 0 1 2 ve 3 ler için bir for döngüsü ve if döngüsü açtım. 
 Şartlara uyan labelleri y_test listesinde topladım geri kalanları y_trainin içine attım.
 %25 y_test %75 y_train olacak şekilde if bloklarımın içini düzenledim.
